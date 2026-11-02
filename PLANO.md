@@ -17,5 +17,6 @@ Estudar edesenvolver uma blockchain experimental
 - [ ] Criar protótipo
 - [ ] Testarrede localmente
 - [ ] Revisar segurança
+      
 ## Status
-Em fase deb planejamento e aprendizado.
+Em fase de planejamento e aprendizado.
